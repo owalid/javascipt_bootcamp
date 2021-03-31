@@ -1,6 +1,6 @@
 
 // const
 
-const hello = "Bonjour"
+let hello = "Bonjour"
 
 hello = "Hello"
