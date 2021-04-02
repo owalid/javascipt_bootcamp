@@ -1,7 +1,6 @@
+let a = 0;
 
 const incrementA = () => {
-  let a = 0;
-
   a++;
 }
 

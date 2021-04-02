@@ -7,26 +7,26 @@ let c = 22
 let d = 3
 let f = "3"
 
-if () {
+if (a <= 0) {
   console.log("1) a est inferieur ou egal à 0")
 }
 
-if () {
+if (b < 0) {
   console.log("2) b est negatif")
 }
 
-if () {
+if (c > 0) {
   console.log("3) c est positif")
 }
 
-if () {
+if (f == 3) {
   console.log("4) f est egal à 3")
 }
 
-if () {
+if (f !== 3) {
   console.log("5) f n'est pas egal au nombre 3")
 }
 
-if () {
+if (d === 3) {
   console.log("6) d est egal au nombre 3")
 }
